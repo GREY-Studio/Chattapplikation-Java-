@@ -9,13 +9,13 @@
 Emil Olsson - Chatt App.zip
 ```
 
-**2. Öppna projekten Olsson-Messenger och Olsson-Server i valfri Java-kompilator.**
+**2. Öppna projekten `Olsson-Messenger` och `Olsson-Server` i valfri Java-kompilator.**
 
 **3. Kör `Olsson-Messenger` och `Olsson-Server`.**
 
 ##Server
 
-**1. Klicka på "Browse..." och lägg till filen "Data.xml".**
+**1. Klicka på `Browse...` och lägg till filen `Data.xml`.**
 
 ```
 root:\Emil Olsson - Chatt App\Data.xml
