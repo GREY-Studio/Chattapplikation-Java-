@@ -11,7 +11,7 @@ Emil Olsson - Chatt App.zip
 
 **2. Öppna projekten Olsson-Messenger och Olsson-Server i valfri Java-kompilator.**
 
-**3. Kör Olsson-Messenger och Olsson-Server.**
+**3. Kör `Olsson-Messenger` och `Olsson-Server`.**
 
 ##Server
 
@@ -49,9 +49,9 @@ Password:
 root:\Emil Olsson - Chatt App\History.xml
 ```
 
-**4. Börja chatta"**
+**4. Börja chatta**
 
 - Skriv ett meddelande och klicka på "Send Message".
-- Skicka en fil genom att klicka på "...", välja en fil och klicka på "Send".
+- Skicka en fil genom att klicka på "...", välja en fil på din dator och sedan klicka på "Send".
 - Välj om du vill skicka meddelanden till "All", eller en specifik användare.
-- Klicka på "Show" för att se chatthistoriken
+- Klicka på "Show" för att se chatthistoriken.
