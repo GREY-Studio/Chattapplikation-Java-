@@ -6,7 +6,7 @@
 **1. Ladda ned filerna från repository:n och spara dem på din dator.**
 
 ```
-Emil Olsson - Chatt App.zip
+Chattapplikation-Java--master.zip
 ```
 
 **2. Öppna projekten `Olsson-Messenger` och `Olsson-Server` i valfri Java-kompilator.**
